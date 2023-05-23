@@ -2,7 +2,7 @@ bob_the_builder:
   repositories:
       - repository:
           name: "Tinus whoop"
-          url: "https://gist.githubusercontent.com/TinusJ/2697ae304e62e5c5c0dd07e2fc42d8c6/raw/2fff43abe5867d54e7883af2f840d8144c80c010/bob_the_builder.yml"
+          url: "https://github.com/TinusJ/BobTheBuilder.git"
       - repository:
           name: "Louis not so whoop"
           url: "https://gist.githubusercontent.com/TinusJ/2697ae304e62e5c5c0dd07e2fc42d8c6/raw/76cca9a7ae12f91f9f494e9e9b235a9530058c03/bob_the_builder.yml"
