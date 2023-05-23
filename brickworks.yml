@@ -1,0 +1,21 @@
+brickworks:
+  - brick:
+      name: "First Brick"
+      id: 001
+      type: "method"
+      description: "This brick allows you do do something great, like throw it at people"
+      files:
+        - "method1.py"
+  - brick:
+      name: "Second Brick"
+      id: 002
+      type: "file"
+      files:
+        - "file2.txt"
+  - brick:
+      name: "Third Brick"
+      id: 003
+      type: "method"
+      files:
+        - "method3a.py"
+        - "method3b.py"
